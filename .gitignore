@@ -1,4 +1,5 @@
 bin/
 obj/
 .vs/
-
+Pong/bin/
+Pong/obj/
